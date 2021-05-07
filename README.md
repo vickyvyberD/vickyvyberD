@@ -4,7 +4,7 @@
 
 - 🔭 I' m quite passionate about programming for now :p
 - 🌱 I’m currently looking for jobs in frontend or core-languages side
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate in open source too!
 - ⚡ Fun fact: I watch Animes, read mangas and light novels too!
 
 <br />
